@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/app/libs
+/gradle
+/build
+
+.idea/
+
+/gradle.properties
+
+/gradlew
+/gradlew.bat
+/local.properties
+/.idea/compiler.xml

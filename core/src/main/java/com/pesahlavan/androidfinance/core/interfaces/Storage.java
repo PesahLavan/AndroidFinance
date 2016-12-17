@@ -1,4 +1,4 @@
-package com.pesahlavan.androidfinance.core;
+package com.pesahlavan.androidfinance.core.interfaces;
 
 import java.math.BigDecimal;
 import java.util.Currency;
